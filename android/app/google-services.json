@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "207767955981",
+    "project_id": "gradcon4",
+    "storage_bucket": "gradcon4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207767955981:android:75295a946b3085203e0344",
+        "android_client_info": {
+          "package_name": "com.gradcon.gradcon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207767955981-9fl2n28u384n2bac0h9iuinjdkjp2d3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABlz32j3oVu8SqTzn7NUxp7j17rA69n1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207767955981-9fl2n28u384n2bac0h9iuinjdkjp2d3q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "207767955981-8ldv0bkuthkuhua5u7ehlj0ig4r2hf12.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gradcon.gradcon"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
